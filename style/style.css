@@ -30,7 +30,7 @@ align-items: center;
 text-decoration: none;
 }
 
-.span{
+.spon{
     color: #8987A1;
     font
 }
@@ -39,3 +39,46 @@ text-decoration: none;
     size: 16px;
     font width: 800px;
 }
+.banner{
+    padding: 5px;
+}
+.banner-title{
+    font-size: 4rem;
+    font-weight: 700px;
+    padding: 5px;
+    
+
+}
+.banner-para{
+    color: #8987A1;
+    font-size: 22px;
+
+}
+.banner-header{
+    text-align: top 10px ;
+}
+
+.spwan{
+    color: #E95A08;
+}
+.banner{
+    display: flex;
+    margin: 40px;
+}
+.our-plants{
+    align-items: center;
+    text-align: center;
+}
+.btn{
+    background-color: #E95A08;
+    border: none;
+    color: white;
+    font-weight: 500px;
+    font-size: 16px;
+
+}
+.section-title{
+   
+}
+
+
